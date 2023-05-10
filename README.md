@@ -7,4 +7,9 @@ ____
 Segundo commit criado para testar conhecimentos de versionamento do código.
 
 ----
+
 Terceiro commit, feito no repositório remoto, para fazer o comando git pull, editar o arquivo e fazer o git push para atualizar a versão do código.
+
+----
+
+Quarto commit, criado para atualizar a versão do código que estava no repositório remoto, feita a edição o arquivo será empurrado para o repositório remoto.
