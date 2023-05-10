@@ -5,3 +5,6 @@ Este arquivo faz parte do desafio numero um proposto no Bootcamp "Potência Tech
 ____
 
 Segundo commit criado para testar conhecimentos de versionamento do código.
+
+----
+Terceiro commit, feito no repositório remoto, para fazer o comando git pull, editar o arquivo e fazer o git push para atualizar a versão do código.
